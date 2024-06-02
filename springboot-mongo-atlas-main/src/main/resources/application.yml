@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://rskcse092:4zHOG0fD7dOyV9NS@cluster1.xywio7y.mongodb.net/
+      database : Task

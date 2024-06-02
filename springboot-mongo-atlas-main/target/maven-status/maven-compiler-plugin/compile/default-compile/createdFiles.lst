@@ -1,0 +1,5 @@
+com\javatechie\repository\TaskRepository.class
+com\javatechie\model\Task.class
+com\javatechie\SpringbbotMongoAtlasApplication.class
+com\javatechie\controller\TaskController.class
+com\javatechie\service\TaskService.class
